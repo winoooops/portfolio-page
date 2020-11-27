@@ -1,0 +1,25 @@
+[
+  {
+    "title": "WebSVF",
+    "context": "毕业设计",
+    "responsibility": [
+      "Docker容器创建和管理",
+      "编辑开发者日志",
+      "项目测试"
+    ],
+    "starts": "202008",
+    "ends": "202011",
+    "url": "https://github.com/winoooops/WebSVF"
+  },
+  {
+    "title": "MEAN框架论坛应用",
+    "context": "课程设计",
+    "responsibility": [
+      "框架设计和搭建",
+      "主要开发者"
+    ],
+    "starts": "201909",
+    "ends": "201910",
+    "url": "https://github.com/winoooops/cat-aip"
+  }
+]

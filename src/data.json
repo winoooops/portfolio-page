@@ -1,0 +1,72 @@
+{
+  "projects": [
+    {
+      "id": "001",
+      "title": "WebSVF",
+      "context": "开源项目：在线代码分析工具",
+      "responsibility": [
+        "Docker容器创建和管理",
+        "AWS部署"
+      ],
+      "starts": "2020-08",
+      "ends": "2020-11",
+      "url": "https://github.com/winoooops/WebSVF"
+    },
+    {
+      "id": "002",
+      "title": "MEAN框架论坛应用",
+      "context": "课程设计",
+      "responsibility": [
+        "框架设计和搭建",
+        "主要开发者"
+      ],
+      "starts": "2019-09",
+      "ends": "2019-11",
+      "url": "https://github.com/winoooops/cat-aip"
+    }
+  ],
+  "skills": [
+    {
+      "title": "前端开发",
+      "list": [
+        "HTML",
+        "CSS",
+        "Sass",
+        "React",
+        "Angular",
+        "Webpack",
+        "Material Design",
+        "iOS Swift"
+      ]
+    },
+    {
+      "title": "全栈开发",
+      "list": [
+        "PHP",
+        "node.js",
+        "Docker",
+        "Electron"
+      ]
+    },
+    {
+      "title": "数据库",
+      "list": [
+        "MongoDB",
+        "PostSQL",
+        "Redis"
+      ]
+    },
+    {
+      "title": "开发工具",
+      "list": [
+        "Bash/Shell",
+        "Linux",
+        "GitHub",
+        "npm",
+        "yarn",
+        "DockerHub",
+        "Codepen"
+      ]
+    }
+  ]
+}
