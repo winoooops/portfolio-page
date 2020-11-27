@@ -6,7 +6,7 @@ export default function Self() {
       <div className="hero-body">
         <div className="container">
           <h1 className="title">
-            前端全栈开发者
+            Code, Grow and Fun Functioning
           </h1>
           <h2 className="subtitle">
             热爱通过开发解决需求
